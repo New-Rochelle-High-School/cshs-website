@@ -2,7 +2,7 @@
 
 ## Todo
 
-- [ ] Custom Domain
+- [ ] Change URL
 - [ ] Projects Tab
 - [ ] Members/Board List
 - [ ] General Navigation
