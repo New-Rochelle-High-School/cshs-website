@@ -4,5 +4,5 @@
 
 - [ ] Custom Domain
 - [ ] Projects Tab
-- [ ] Members List
+- [ ] Members/Board List
 - [ ] General Navigation
