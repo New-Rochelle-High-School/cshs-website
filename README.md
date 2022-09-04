@@ -1,2 +1,7 @@
 # cshs-website
-CSHS Website
+
+## Todo
+
+- [ ] Projects Tab
+- [ ] Members List
+- [ ] General Navigation
