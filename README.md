@@ -6,3 +6,4 @@
 - [ ] Projects Tab
 - [ ] Members/Board List
 - [ ] General Navigation
+- [ ] Add Weekly Problems
